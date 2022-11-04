@@ -2255,8 +2255,8 @@
   },
   "aigisMod:Meer2": {
     "NAME": "梅亚",
-    "DESCRIPTION": "造成 !D! 点伤害, 如果击败敌人则获得 [E]  NL 本场战斗中,随机 打击 牌获得: 获得 [E]  NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害, 如果击败敌人则获得 [E] [E]  NL 本场战斗中,随机 打击 牌获得: 获得 [E]  NL 消耗 。",
+    "DESCRIPTION": "造成 !D! 点伤害, 如果击败敌人则获得 [E] NL 本场战斗中,随机 打击 牌获得: 获得 [E] NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害, 如果击败敌人则获得 [E] [E] NL 本场战斗中,随机 打击 牌获得: 获得 [E] NL 消耗 。",
     "EXTENDED_DESCRIPTION" : [
       "帝国枪骑士"
     ]
