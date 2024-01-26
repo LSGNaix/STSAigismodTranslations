@@ -4233,17 +4233,17 @@
 
 
   "aigisMod:StrikeRush": {
-    "NAME": "Strike",
+    "NAME": "打击",
     "DESCRIPTION": "造成 !D! 点伤害。 NL 将一张 打击 放入弃牌堆（有1%的概率出现奇迹打击）。 NL 消耗 。",
     "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 将一张 打击+ 放入弃牌堆（有1%的概率出现奇迹打击）。 NL 消耗 。"
   },
   "aigisMod:StrikeRush2": {
-    "NAME": "Strike",
+    "NAME": "打击",
     "DESCRIPTION": "造成 !D! 点伤害。 NL 将一张 打击放入弃牌堆（有1%的概率出现奇迹打击）。 NL 消耗 。",
     "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 将一张 打击+ 放入弃牌堆（有1%的概率出现奇迹打击）。 NL 消耗 。"
   },
   "aigisMod:MiracleStrike": {
-    "NAME": "Miracle Strike",
+    "NAME": "奇迹打击",
     "DESCRIPTION": "造成 !D! 点伤害。 NL 将一张 打击 放入弃牌堆（有1%的概率出现奇迹打击）。 NL 消耗 。",
     "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 将一张 打击+ 放入弃牌堆（有1%的概率出现奇迹打击）。 NL 消耗 。"
   },
